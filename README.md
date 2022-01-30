@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Stephen
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Full Stack JS and Python
+- 💞️ I’m looking to collaborate on future projects I produce along my journey
+- 📫 How to reach me: sguined@gmail.com
